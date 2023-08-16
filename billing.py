@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------
-#Brandi Rosser
+# Brandi Rosser
 # Date:    07/09/2023
 #
 # This module calculates and displays billing information
