@@ -1,9 +1,5 @@
 # ----------------------------------------------------------------
-# Author:  Group 9
-#          Brandi Rosser
-#          Jaden Fisher
-#          Manar Mohammed
-# Date:    07/09/2023
+# Brandi Rosser
 #
 # This module supports changes in the registered courses
 # for students in the class registration system.  It allows
