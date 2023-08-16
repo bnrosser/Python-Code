@@ -1,9 +1,5 @@
 # ----------------------------------------------------------------
-# Author:  Group 9
-#          Brandi Rosser
-#          Jaden Fisher
-#          Manar Mohammed
-# Date:    07/09/2023
+# Brandi Rosser
 #
 # This program creates a class registration system.  It allows
 # students to add courses, drop courses and list courses they are
