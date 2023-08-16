@@ -1,9 +1,5 @@
 # ----------------------------------------------------------------
-# Author:  Group 9
-#          Brandi Rosser
-#          Jaden Fisher
-#          Manar Mohammed
-# Date:    07/09/2023
+# Brandi Rosser
 #
 # Test the billing module.
 #
