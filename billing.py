@@ -1,8 +1,5 @@
 # ----------------------------------------------------------------
-# Author:  Group 9
-#          Brandi Rosser
-#          Jaden Fisher
-#          Manar Mohammed
+#Brandi Rosser
 # Date:    07/09/2023
 #
 # This module calculates and displays billing information
